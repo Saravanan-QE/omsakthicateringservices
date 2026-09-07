@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omsakthicateringservices.in/sitemap.xml
